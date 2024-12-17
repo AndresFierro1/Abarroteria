@@ -1,0 +1,9 @@
+﻿  ABARROTES.cpp
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(184,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(187,36): warning C4101: 'e': variable local sin referencia
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(397,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(400,36): warning C4101: 'e': variable local sin referencia
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(431,40): warning C4101: 'e': variable local sin referencia
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\ABARROTES\ABARROTES.cpp(434,36): warning C4101: 'e': variable local sin referencia
+ABARROTES.obj : error LNK2019: símbolo externo "void __cdecl guardarStock(void)" (?guardarStock@@YAXXZ) sin resolver al que se hace referencia en la función "void __cdecl operaciones(int)" (?operaciones@@YAXH@Z)
+C:\Users\jesus\Desktop\PROGRAMAS 3 SEMESTRE\ABARROTES\x64\Debug\ABARROTES.exe : fatal error LNK1120: 1 externos sin resolver
